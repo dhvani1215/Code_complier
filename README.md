@@ -11,7 +11,7 @@ A clean and modern web-based **code compiler** that allows users to write, compi
 - 🤖 **AI Suggestions:** Receive AI-generated suggestions and code optimizations based on your input.
 - 🔗 **Code Sharing:** Share your code with others using a generated URL for easy collaboration and review.
 - 📱 **Responsive Design:** Works perfectly across desktops, tablets, and mobile devices.
-
+---
 ## 🛠️ Tech Stack
 
 - **Frontend:** React
