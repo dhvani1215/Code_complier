@@ -58,5 +58,3 @@ Then open your browser and go to: [http://localhost:5173](http://localhost:5173)
 5. **AI Suggestions:** Get AI-generated code suggestions and improvements based on your code.
 6. **Code Sharing:** Once you’re satisfied with your code, click the “Share” button to generate a unique URL for sharing.
 7. **Toggle Theme:** Use the theme switcher to toggle between light and dark mode.
-
----
