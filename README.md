@@ -2,7 +2,7 @@
 A clean and modern web-based **code compiler** that allows users to write, compile, and run code in various programming languages, right from the browser. Ideal for developers, students, and educators who want quick execution and testing of code without setting up a local environment.
 
 🌐 **Live Demo:** https://code-complier-g7oq.vercel.app/
-
+---
 ## ✨ Features
 - 📝 **Code Editor:** Syntax-highlighted editor for writing code easily.
 - 🚀 **Run Code Instantly:** Execute code in multiple languages with a single click.
